@@ -1,0 +1,12 @@
+{
+  "scale_error_code": "E_BAD_SCALE",
+  "scale": 2,
+  "left": [
+    {"name": "alpha", "value": 3},
+    {"name": "beta", "value": 5}
+  ],
+  "right": [
+    {"name": "beta", "value": 2},
+    {"name": "gamma", "value": 4}
+  ]
+}
